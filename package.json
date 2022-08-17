@@ -1,0 +1,25 @@
+{
+  "name": "@r3ps4j/tailwindcss-color-variables",
+  "version": "1.0.0",
+  "description": "A plugin for Tailwind CSS which exposes Tailwind's colors as CSS variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3ps4J/tailwindcss-color-variables.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "r3ps4J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r3ps4J/tailwindcss-color-variables/issues"
+  },
+  "homepage": "https://github.com/r3ps4J/tailwindcss-color-variables#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}

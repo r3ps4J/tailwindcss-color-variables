@@ -18,7 +18,7 @@ Used the edited code from [Maybach91](https://github.com/Maybach91)'s [comment](
 Install the plugin with your prefferred package manager:
 
 ```
-npm install @r3ps4j/tailwindcss-color-variables
+npm install @r3ps4j/tailwindcss-color-variables --save-dev
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
